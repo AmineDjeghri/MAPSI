@@ -1,5 +1,5 @@
 # UE MAPSI  
-Aims to present the basic elements of probability and statistics for computer science.
+Aims to present the basic and advanced elements of probability and statistics for computer science.
 http://dac.lip6.fr/master/enseignement/mapsi/
 
 ## Cours 1 : rappels de probas/statistiques
